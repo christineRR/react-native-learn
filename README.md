@@ -11,5 +11,8 @@ cd myRNProject
 
 ## ios
 
+[ios start](https://github.com/christineRR/react-native-learn/blob/master/ios-start.md)
 
 ## android
+
+[android start](https://github.com/christineRR/react-native-learn/blob/master/android-start.md)
