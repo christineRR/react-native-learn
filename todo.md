@@ -24,7 +24,7 @@ TODO：本地不依赖环境，开发服务器构建执行，类似 selenium 自
 ### RN boilerplate
 
 + 代码组织方式
-+ react / redux / immutale
++ react / redux / immutable / bable
 + 通用模块
 
 #### 参考
@@ -32,6 +32,8 @@ TODO：本地不依赖环境，开发服务器构建执行，类似 selenium 自
 + [formidable-react-native-app-boilerplate](https://github.com/FormidableLabs/formidable-react-native-app-boilerplate)
 
 ### RN 脚手架工具
+
+> fork react-native-cli
 
 + 项目初始化
 + debug & logger
