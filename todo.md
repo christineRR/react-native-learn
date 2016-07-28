@@ -27,9 +27,13 @@ TODO：本地不依赖环境，开发服务器构建执行，类似 selenium 自
 + react / redux / immutale
 + 通用模块
 
+#### 参考
++ [snowflake](https://github.com/bartonhammond/snowflake)
++ [formidable-react-native-app-boilerplate](https://github.com/FormidableLabs/formidable-react-native-app-boilerplate)
+
 ### RN 脚手架工具
 
 + 项目初始化
 + debug & logger
 + 打包编译
-+ 单元测试，reducer 部分
++ RN 测试 [jest](https://facebook.github.io/jest/docs/tutorial-react-native.html#content)
