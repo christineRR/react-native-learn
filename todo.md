@@ -33,9 +33,16 @@ TODO：本地不依赖环境，开发服务器构建执行，类似 selenium 自
 
 ### RN 脚手架工具
 
-> fork react-native-cli
+> 基于 react-native-cli wapper
 
 + 项目初始化
 + debug & logger
 + 打包编译
 + RN 测试 [jest](https://facebook.github.io/jest/docs/tutorial-react-native.html#content)
++ 埋点
+
+### RN 最佳实践
+
++ 通用模块 list 及实践场景
++ 性能边界
++ 培训
