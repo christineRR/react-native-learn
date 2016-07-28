@@ -36,6 +36,8 @@ react-native run-android
 
 # 配置 模拟器 setting
 
+# 安装 Gradle
+
 # 启动 react-native run-android 后，打开 debug 设置本机 ip:port
 ```
 
